@@ -1,3 +1,4 @@
+ID,Name,Age,Sex,Ethnicity,Country,Symptoms
 P000001,Emily Johnson,45,Female,White,USA,"Fatigue, unintentional weight loss, and persistent cough",Lung cancer
 P000002,Michael Rodriguez,60,Male,Hispanic,USA,"Memory loss, confusion, and difficulty performing daily tasks",Alzheimer's disease
 P000003,Olivia Chen,35,Female,Asian,USA,"Shortness of breath, chest pain, and fatigue",Chronic obstructive pulmonary disease (COPD)
